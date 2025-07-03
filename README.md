@@ -36,5 +36,5 @@ If the privacy policy changes, we’ll update this README with the new informati
 
 If you have any questions or concerns, feel free to reach out:
 
-**[Your Name or Company Name]**  
-📧 [your-support-email@example.com]
+**[Dragan Kecman]**  
+📧 [kecmen@gmail.com]
